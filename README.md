@@ -1,0 +1,1 @@
+# lazysf.nvim
